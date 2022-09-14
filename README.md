@@ -1,4 +1,4 @@
-# pizza-time
+# Pizza Time
 🍕⏰
 
 Ever wanted to know if it's pizza time? Well now you can.
