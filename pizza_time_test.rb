@@ -1,4 +1,4 @@
-require_relative "pizza_time"
+require_relative "pizza_time.rb"
 
 now = Time.now
 
